@@ -27,5 +27,5 @@ pywin32==224
 six==1.12.0
 SQLAlchemy==1.3.5
 tempora==1.14.1
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 zc.lockfile==1.4
